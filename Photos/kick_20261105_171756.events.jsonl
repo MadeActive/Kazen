@@ -1,0 +1,4 @@
+{"type": "READY", "frame": 1450, "t": 1793859476.106744, "px": [802.5, 849.5], "r": 63.12299346923828, "wall_ms": 96020}
+{"type": "APPROACH", "frame": 1465, "t": 1793859477.175678, "wall_ms": 97089}
+{"type": "KICK", "frame": 1484, "t": 1793859478.440329, "anchor": [802.5, 849.5], "wall_ms": 98354}
+{"type": "IMPACT", "frame": 1518, "t": 1793859480.777725, "seen_frame": 1519, "px": [1346.0, 315.5], "goal_cm": [146.0, 154.8], "cell": [22, 2], "on_target": true, "flight_s": 2.337, "latency_ms": 41.0, "refined": true, "source": "net-motion", "wall_ms": 100691}

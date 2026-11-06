@@ -1,0 +1,2 @@
+{"type": "KICK", "frame": 668, "t": 1793859217.66242, "anchor": [1065.0, 935.0], "wall_ms": 44531}
+{"type": "IMPACT", "frame": 720, "t": 1793859221.130062, "seen_frame": 721, "px": [1046.0, 613.0], "goal_cm": [-27.3, 56.5], "cell": [1, 9], "on_target": false, "flight_s": 3.468, "latency_ms": 102.2, "refined": false, "wall_ms": 48064}

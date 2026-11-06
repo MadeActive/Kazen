@@ -1,0 +1,34 @@
+{
+  "goal_w_cm": 240.0,
+  "goal_h_cm": 172.0,
+  "panel_cols": 36,
+  "panel_rows": 13,
+  "capture_fps": 240.0,
+  "kick_distance_m": null,
+  "rest_ball_px": null,
+  "corners": [
+    [
+      571.0,
+      451.0
+    ],
+    [
+      738.0,
+      453.0
+    ],
+    [
+      743.0,
+      576.0
+    ],
+    [
+      560.0,
+      573.0
+    ]
+  ],
+  "white_s_max": 75,
+  "white_v_min": 160,
+  "ball_area_px": [
+    120,
+    12000
+  ],
+  "surface": "wall"
+}

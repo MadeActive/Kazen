@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Prototype outputs (regenerable)
+Prototypes/*/out/
+Photos/out/
+# Video captures — too big for git; they stay on the machine (events/times sidecars are kept)
+*.mp4
+*.MOV
+*.mov
+*.webm

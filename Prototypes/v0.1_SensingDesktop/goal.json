@@ -1,0 +1,12 @@
+{
+  "_comment": "Backyard goal, iPhone 15 Plus slo-mo (1080p, 240 fps), phone low behind the kick spot. Corners are initial guesses for the line fitter: TL, TR, BR, BL in px.",
+  "goal_w_cm": 240.0,
+  "goal_h_cm": 172.0,
+  "panel_cols": 36,
+  "panel_rows": 13,
+  "capture_fps": 240.0,
+  "kick_distance_m": null,
+  "rest_ball_px": [1106, 916, 37],
+  "ball_area_px": [120, 60000],
+  "corners": [[1261, 601], [1657, 590], [1675, 869], [1248, 847]]
+}

@@ -1,0 +1,7 @@
+{
+  "_comment": "Laptop webcam 1920x1080 @ 30 fps, afternoon 5 Nov, net goal. Corners TL TR BR BL inner edges.",
+  "goal_w_cm": 240.0, "goal_h_cm": 172.0, "panel_cols": 36, "panel_rows": 13,
+  "capture_fps": 30.0, "kick_distance_m": null,
+  "rest_ball_px": [812, 919, 56],
+  "corners": [[1082, 465], [1522, 460], [1530, 750], [1067, 745]]
+}
