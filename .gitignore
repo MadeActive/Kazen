@@ -6,6 +6,9 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+# Design assets (images, explorations) — kept locally / in Figma, not in git
+Design/
+
 # Prototype outputs (regenerable)
 Prototypes/*/out/
 Photos/out/

@@ -18,7 +18,7 @@ A goal-shaped LED display built from slatted batten fence panels. Players kick a
 | `docs/parts/parts-list.md` | Everything to buy, with status | Edit in place |
 | `docs/log/` | Dated session notes and superseded docs | Frozen; never edited after the day |
 | `Prototypes/` | Every prototype, one folder each, versioned: `v0.0_KeeperLive` (Sept HTML keeper), `v0.1_LedTestBoard` (bench scripts), `v0.1_SensingDesktop` (camera sensing: `kick_cam.py`, `live_tracker.py`, `annotate_clip.py`) | Code |
-| `Design/` | Brand (wordmark), screen explorations (v0.1 image-gen), research and marketing references | Assets |
+| `Design/` | Brand (wordmark), screen explorations (v0.1 image-gen), research and marketing references — **local only, not in git** | Assets |
 | `Photos/` | Fence panel references, test board photo | Assets |
 | `Strategy/`, `md/` | Empty — contents moved to `docs/` on 5 Nov 2026. Delete when convenient | — |
 
